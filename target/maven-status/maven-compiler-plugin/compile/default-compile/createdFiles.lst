@@ -1,0 +1,13 @@
+dao\LibroDAO.class
+Controller\LoginServlet.class
+model\Libro.class
+model\Persona.class
+model\conectionDataBase.class
+Controller\LibroServlet.class
+model\Usuario.class
+util\HibernateUtil.class
+model\Estudiante.class
+dao\PersonaDAO.class
+dao\UsuarioDAO.class
+model\Bibliotecario.class
+com\mycompany\gestionbibliotecariahibernate\TestConexion.class
